@@ -1,6 +1,0 @@
-{
-  "name": "Discussion Expressions Study Hub",
-  "description": "An interactive study application for mastering English discussion and debate expressions. Features expression categories, customizable confidence selections, active recall matching quizzes, and an AI-powered conversational roleplay simulator.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
